@@ -1,0 +1,9 @@
+# Configure container runtime sandboxes
+
+## Required
+
+This is the required lab for the CKA **Workloads & Scheduling** domain (15%).
+
+> Configure container runtime sandboxes
+
+Complete the focused exam-style task and verify the exact requested state. The environment starts fresh for this stage.

@@ -1,0 +1,31 @@
+{
+  "title": "Certified Kubernetes Administrator (CKA)",
+  "description": "Hands-on KillerCoda labs covering all current CKA exam domains.",
+  "items": [
+    {
+      "path": "cluster-architecture-installation-configuration",
+      "title": "Cluster Architecture, Installation & Configuration (25%)",
+      "description": "RBAC, kubeadm installation, highly available clusters, infrastructure, upgrades, and etcd backup and restore"
+    },
+    {
+      "path": "workloads-scheduling",
+      "title": "Workloads & Scheduling (15%)",
+      "description": "Deployments, ConfigMaps, Secrets, private registries, Pod design, scheduling, DaemonSets, static Pods, schedulers, runtime sandboxes, labels, and taints"
+    },
+    {
+      "path": "services-networking",
+      "title": "Services & Networking (20%)",
+      "description": "Host networking, Pod connectivity, Services, Ingress, and NetworkPolicies"
+    },
+    {
+      "path": "storage",
+      "title": "Storage (10%)",
+      "description": "StorageClasses, PersistentVolumes, volume modes, access modes, reclaim policies, claims, and persistent applications"
+    },
+    {
+      "path": "troubleshooting",
+      "title": "Troubleshooting (30%)",
+      "description": "Clusters and nodes, resource usage, container output, and Services and networking"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Configure NetworkPolicies – Production",
+  "description": "Apply the objective in a realistic operational scenario and leave evidence for handoff.",
+  "details": {
+    "intro": { "text": "intro.md" },
+    "steps": [
+      { "title": "Operational task", "text": "step1.md", "verify": "scripts/verify.sh" },
+      { "title": "Review and reflect", "text": "step2.md" }
+    ],
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "kubernetes-kubeadm-1node" }
+}

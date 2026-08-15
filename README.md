@@ -1,6 +1,6 @@
 # CKA Scenarios
 
-Complete CKA syllabus practice, organized like the CKS repository. Every topic has four independent KillerCoda stages: learn, required, inferno, and production.
+Complete CKA syllabus practice. Every topic has four independent KillerCoda stages: learn, required, inferno, and production.
 
 ## Cluster Architecture, Installation & Configuration (25%)
 
@@ -46,5 +46,3 @@ Complete CKA syllabus practice, organized like the CKS repository. Every topic h
 2. Monitor cluster and application resource usage
 3. Manage and evaluate container output
 4. Troubleshoot Services and networking
-
-Each stage has its own index.json, lesson pages, setup script, and verification script.
